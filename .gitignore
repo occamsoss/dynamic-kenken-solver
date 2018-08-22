@@ -1,0 +1,8 @@
+# Ignore *.iml file(s)
+*.iml
+
+# Ignore compiled output files
+out/
+
+# Ignore IDE-specific configuration files
+.idea/
